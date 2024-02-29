@@ -7,7 +7,6 @@ import X from "@/icons/X.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
 import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
-import { boolean } from "astro/zod";
 
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region } = location
@@ -59,7 +58,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(' ° ')
                     )
                 }
                 {
-                    profiles.map(({network, url, username}) => {
+                    profiles.map(({network, url}) => {
                         const Icon = SOCIAL_ICONS[network]
                         return (
                             <a
