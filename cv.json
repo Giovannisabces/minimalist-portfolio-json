@@ -5,10 +5,9 @@
       "image": "/me.webp",
       "email": "giovannisc22@gmail.com",
       "phone": "+34 611042798",
-      "url": "https://.",
+      "url": "https://portfoliodevgio.web.app/",
       "summary": [
-        "Ingeniero Cloud | Desarrollador Backend | Java y JavaScrip, con formación en el diseño, implementación y mantenimiento de soluciones en la nube y on-premise.  Con sólido entendimiento de la arquitectura de sistemas distribuidos."
-        ,"Fuertes habilidades para resolver problemas y capacidad de trabajo en equipo colaborativo. Apasionado por aprender y adaptarme a un ecosistema tecnológico cambiante."
+        "Ingeniero Cloud | Desarrollador Backend | Java y JavaScrip, con formación en el diseño, implementación y mantenimiento de soluciones en la nube y on-premise.  Con sólido entendimiento de la arquitectura de sistemas distribuidos.Fuertes habilidades para resolver problemas y capacidad de trabajo en equipo colaborativo. Apasionado por aprender y adaptarme a un ecosistema tecnológico cambiante."
         ,"Empece mi carrera como Ingeniero Electrónico y en Telecomunicaciones, descubri mi pasion por el mundo del desarrollo desde el 2018 con lenguajes a bajo nivel (especifico para hardware) con C/C++ y lo que me motivo a en paralelo estudiar la Ing en Sistemas donde aprendi los lenguajes muy utilizados hoy en dia: Java(Backend) y JavaScrip(Fullstack)"
       ],
       "location": {
@@ -95,7 +94,7 @@
         ,"CI/CD"
         ,"Docker & Kubernetes"
         ,"Infraestructuras Cloud & Serverles"
-        ,"IaS & PaS & SaS"
+        ,"IaaS & PaaS & SaaS"
         ,"Estructuras de altas prestaciones"
         ,"Gestion de datos & PySpark"
       ]
@@ -140,6 +139,55 @@
     }],
     "skills": [
       {
+        "name": "Infrastructura IaaS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Load Balancing",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Micro Servicios",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Java & Maven",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "Spring Boot",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Docker & Kubernetes",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
         "name": "HTML",
         "level": "Master",
         "keywords": [
@@ -147,7 +195,7 @@
         ]
       },
       {
-        "name": "CSS",
+        "name": "CSS & Tailwind",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
@@ -201,20 +249,6 @@
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
-      },
-      {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
       }
     ],
     "languages": [
@@ -263,7 +297,7 @@
       {
         "name": "TFG - EHealth",
         "isActive": true,
-        "description": "Sistema e-health de adquisición y almacenamiento de variables fisiológicas, obtenidas de dispositivos comerciales, necesarias para predecir el nivel de insulina. Este sistema permite el seguimiento y la monitorización de los pacientes con diabetes, así como la generación de alertas y recomendaciones personalizadas.",
+        "description": "Sistema E-health de adquisición y almacenamiento de variables fisiológicas, obtenidas de dispositivos comerciales, necesarias para predecir el nivel de insulina. Permite el seguimiento y monitorización de los pacientes diabeticos, generando de alertas y recomendaciones personalizadas.",
         "highlights": [
           "E-Healt",
           "variables fisiologicas",
