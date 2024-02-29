@@ -1,9 +1,23 @@
 ---
 import Section from "@/components/Section.astro";
 import { work } from "@cv";
+const month = [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
+    ]
 ---
 
-<Section title="Experience">
+<Section title="Experiencia">
     <ul>
         {
             work.map(
@@ -17,11 +31,16 @@ import { work } from "@cv";
                     highlights,
                 }) => {
                     const startYear = new Date(startDate).getFullYear();
+                    const startMonth = new Date(startDate).getMonth();
                     const endYear =
                         endDate != null
                             ? new Date(endDate).getFullYear()
                             : "Actual";
-                    const years = `${startYear} - ${endYear}`;
+                    const endMonth = 
+                        endDate != null
+                        ? new Date(endDate).getMonth()
+                        : 10;
+                    const years = `${startYear} / ${month[startMonth]} - ${endYear}${(endYear!="Actual")?' / '+month[endMonth]:""}`;
                     return (
                         <li>
                             <article>
@@ -33,7 +52,10 @@ import { work } from "@cv";
                                     <time >{years}</time>
                                 </header>
                                 <footer>
-                                    <p>{summary}</p>
+                                    {summary.map(sumaryParagraph =>{
+                                        return (<p>{sumaryParagraph}</p>)
+                                    }
+                                    )}
                                 </footer>
                             </article>
                         </li>
