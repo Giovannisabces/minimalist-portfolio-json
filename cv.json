@@ -1,14 +1,15 @@
 {
     "basics": {
       "name": "Giovanni Sabogal Cespedes",
-      "label": "Backend Developer Java con formación en arquitecturas cloud y altas prestaciones",
+      "label": "Sofware Developer Java | C++ | SpringBoot | Angular, Master en computación en la nube y altas prestaciones",
       "image": "/me.webp",
       "email": "giovannisc22@gmail.com",
       "phone": "+34 611042798",
       "url": "https://portfoliodevgio.web.app/",
       "summary": [
-        "Ingeniero Cloud | Desarrollador Backend | Java y JavaScrip, con formación en el diseño, implementación y mantenimiento de soluciones en la nube y on-premise.  Con sólido entendimiento de la arquitectura de sistemas distribuidos.Fuertes habilidades para resolver problemas y capacidad de trabajo en equipo colaborativo. Apasionado por aprender y adaptarme a un ecosistema tecnológico cambiante."
-        ,"Empece mi carrera como Ingeniero Electrónico y en Telecomunicaciones, descubri mi pasion por el mundo del desarrollo desde el 2018 con lenguajes a bajo nivel (especifico para hardware) con C/C++ y lo que me motivo en paralelo estudiar la Ingenieria en Sistemas donde aprendi los lenguajes muy utilizados hoy en dia: Java(Backend) y JavaScrip(Fullstack)"
+        "Ingeniero en la nube | Desarrollador Java / C++, con amplios conocimientos en diseño y desarrollo de aplicaciones distribuidas robustas y elásticas que puedan desplegarse en sistemas cloud."
+        ,"Con una buena comprensión del análisis y la aplicación de algoritmos numéricos, técnicas de visualización y la forma en que los algoritmos utilizan las estructuras de datos y arquitecturas de computadores actuales."
+        ,"Soy alguien que utiliza las principales tecnologías y herramientas para el procesamiento eficiente de grandes volúmenes de datos (big data), la creación de arquitecturas escalables en la nube y el uso de infraestructuras distribuidas de cómputo."
       ],
       "location": {
         "address": "",
@@ -36,8 +37,8 @@
         "position": "Investigador y desarollador fullstack",
         "url": "https://twitch.tv/midudev",
         "startDate": "2023-05-01",
-        "endDate": null,
-        "summary": ["Investigue y diseñe una arquitectura web serverless identificando e implementado cada una de los servicios necesarios y sus respectivas integraciones. Desarrollándolo con tecnologías como Angular para el Frontend y con Java para el Backend. El proyecto surge como propuesta para una institución sin animo de lucro brindando una alternativa que resolviera sus necesidades de forma rápida, escalable y sin la necesidad de administrar infraestructura del ISP."],
+        "endDate": "2024-07-25",
+        "summary": ["Investigue y diseñe una arquitectura web serverless identificando e implementado cada una de los servicios necesarios y sus respectivas integraciones. Desarrollado con tecnologías como Angular para el Frontend y con Java para el Backend. El proyecto surge como propuesta para una institución sin animo de lucro brindando una alternativa que resolviera sus necesidades de forma rápida, escalable y sin la necesidad de administrar infraestructura del ISP."],
         "highlights": [
           "Started the company"
         ]
@@ -86,7 +87,7 @@
       "area": "Ingeniero de Software",
       "studyType": "Bachelor",
       "startDate": "2022-09-11",
-      "endDate": null,
+      "endDate": "2024-07-25",
       "score": "7.85",
       "skills": [
         "Arquitecturas Cloud"
@@ -107,14 +108,14 @@
       "endDate": "2021-12-10",
       "score": "7.0",
       "skills": [
-        "POO - Intermedio"
-        ,"Intermedio C/C++"
-        ,"Basico - SQL"
-        ,"Basico - Java"
-        ,"Basico - Python"
-        ,"Basico - HTML"
-        ,"Basico - CSS"
-        ,"Basico - Javascript"
+        "POO"
+        ,"C/C++"
+        ,"SQL"
+        ,"Java"
+        ,"Python"
+        ,"HTML"
+        ,"CSS"
+        ,"Javascript"
       ]
     }
   ],
