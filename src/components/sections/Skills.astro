@@ -1,9 +1,10 @@
 ---
 import Section from "@/components/Section.astro";
-import { skills } from "@cv";
+import { skills, awards } from "@cv";
+const awardTitle = awards[0].awarder
 ---
 
-<Section title="Habilidades">
+<Section title="Aptitudes">
     <ul>
         {
             skills.map(({ name }) => (
@@ -14,6 +15,11 @@ import { skills } from "@cv";
         }
     </ul>
 </Section>
+<Section title="Logros">
+    <ul>
+            <li>{awardTitle}</li>
+    </ul>
+</Section>"
 <style>
     ul {
         display: inline-flex;
@@ -21,8 +27,8 @@ import { skills } from "@cv";
         flex-wrap: wrap;
     }
     li {
-        border-radius: 6px;
-        background: #eee;
+        /* border-radius: 6px; */
+        /* background: #eee; */
         color: black;
         font-size: 0.8rem;
         font-weight: 500;
