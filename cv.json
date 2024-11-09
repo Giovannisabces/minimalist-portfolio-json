@@ -7,7 +7,7 @@
       "phone": "+34 611042798",
       "url": "https://portfoliodevgio.web.app/",
       "summary": [
-        "Ingeniero en la nube | Desarrollador Java, una buena base de conocimientos en diseño y desarrollo de aplicaciones distribuidas robustas y elásticas que puedan desplegarse en sistemas cloud."
+        "Ingeniero en la nube | Desarrollador Java - Javascript, una buena base de conocimientos en diseño y desarrollo de aplicaciones distribuidas robustas y elásticas que puedan desplegarse en sistemas cloud."
         ,"Con una buena comprensión del análisis y la aplicación de algoritmos numéricos, técnicas de visualización y la forma en que los algoritmos utilizan las estructuras de datos y arquitecturas de computadores actuales."
         ,"Soy alguien que utiliza las principales tecnologías y herramientas para el procesamiento eficiente de grandes volúmenes de datos (big data), la creación de arquitecturas escalables en la nube y el uso de infraestructuras distribuidas de cómputo."
       ],
@@ -38,18 +38,18 @@
         "url": "https://ad-architects-sas.web.app/",
         "startDate": "2024-06-01",
         "endDate": null,
-        "summary": ["Investigue y diseñe una arquitectura web serverless identificando e implementado cada una de los servicios necesarios y sus respectivas integraciones. Desarrollado con tecnologías como Angular para el Frontend y con Java para los microservicios del Backend. El proyecto surge como propuesta para una institución sin animo de lucro brindando una alternativa que resolviera sus necesidades de forma rápida, escalable y sin la necesidad de administrar infraestructura del ISP."],
+        "summary": ["Desarrollador de la pagina web acorde a las necesidades de la empresa, considerando el diseño responsivo. Utilizando tecnologías que optimizan el SEO, que reducen la carga en el cliente con SSR. Actualmente se sigue expandiendo, desarrollando servicios a través de APIs que les permitan conectar y comunicarse mejor con sus clientes."],
         "highlights": [
           "Started the company"
         ]
       },
       {
         "name": "Iglesia Bautista Reformada de Valencia",
-        "position": "desarollador y soporte fullstack",
+        "position": "Desarollador y manteiner fullstack",
         "url": "https://ibrv-397806.web.app/",
         "startDate": "2023-04-01",
         "endDate": null,
-        "summary": ["Investigue y diseñe una arquitectura web serverless identificando e implementado cada una de los servicios necesarios y sus respectivas integraciones. Desarrollado con tecnologías como Angular para el Frontend y con Java para los microservicios del Backend. El proyecto surge como propuesta para una institución sin animo de lucro brindando una alternativa que resolviera sus necesidades de forma rápida, escalable y sin la necesidad de administrar infraestructura del ISP."],
+        "summary": ["Desarrollador y manteiner de la aplicación web de la congregación, construida con Angular, también responsable de sus futuras actualizaciones"],
         "highlights": [
           "Started the company"
         ]
@@ -72,9 +72,9 @@
         "startDate": "2021-03-21",
         "endDate": "2021-09-22",
         "summary": [
-          "Gestione y supervise la sede de Atento SA calle 72, brindando el servicio del departamento de Tecnologia."
-          ,"Tambien gestione y configure las imagenes en equipos para su entrega y uso de los integrantes de cada campaña (movistar, BBVA Chile,etc) que contrataba los servicios de Atento."
-          ,"Adicionamente tambien brinde servicios de actualizacion, modificacion, reparacion de aplicativos en remoto. Asesoramiento personalizado de soporte para solucion de situaciones o fallos. Verificación de estados de canal, instalacion y configuracion de VPN's"
+          "Gestione y supervise la sede de Atento SA calle 72, brindando el servicio del departamento de Tecnología."
+          ,"También gestione y configure las imágenes en equipos para su entrega y uso de los integrantes de cada campaña (movistar, BBVA Chile, etc) que contrataba los servicios de Atento."
+          ,"Adicionamente tambien brinde servicios de actualizacion, modificacion, reparacion de aplicativos en remoto. Asesoramiento personalizado de soporte para solucion de situaciones o fallos. Verificación de estados de canal, instalacion y configuracion de VPN's."
           ],
         "highlights": [
           "Started the company"
@@ -85,7 +85,7 @@
         "position": "Investigador y desarollador",
         "startDate": "2020-03-01",
         "endDate": "2020-12-10",
-        "summary": ["Desarrollé una plataforma que permite la adquisicion y almacenamiento de un conjunto de variables (Frecuencia cardiaca, nivel de glucosa, masa corporal, cantidad de calorias) de dispositivos comerciales para determinar el nivel de insulina que el paciente diabetico requiere en una sola base de datos centralizando la informacion. Colabore con la Universidad Computense de Madrid para el desarrollo e integracion de las distintas fuentes de datos en una sola plataforma."],
+        "summary": ["Desarrollé una plataforma que permite la adquisición y almacenamiento de un conjunto de variables (Frecuencia cardiaca, nivel de glucosa, masa corporal, cantidad de calorías) de dispositivos comerciales para determinar el nivel de insulina que el paciente diabético requiere en una sola base de datos centralizando la información. Colabore con la Universidad Computense de Madrid para el desarrollo e integración de las distintas fuentes de datos en una sola plataforma."],
         "Example-summary": ["Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS."],
         "highlights": [
           "Ayuda y seguimiento por parte del personal medico a través de la telemedicina."
